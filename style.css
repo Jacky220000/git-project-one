@@ -4,4 +4,6 @@ header {
 
 .slider {
   background-color: yellow;
+  font-size: em;
+  text-align: center;
 }
